@@ -2,9 +2,6 @@
 
 I'm Newb, from the United States. I'm a Spigot plugin developer, Minecraft client developer, and an AntiCheat developer.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GardeningTool&show_icons=true&include_all_commits=true)
-
-
 # Programming Languages
 
 ### Know/Using
@@ -35,8 +32,4 @@ I'm Newb, from the United States. I'm a Spigot plugin developer, Minecraft clien
 
 Discord: Newb#9658
 
-|---|---|---|---|---|---|---|---|
-
----
-Credits: [Delta456](https://github.com/Delta456)
 
