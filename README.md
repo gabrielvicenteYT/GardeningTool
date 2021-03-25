@@ -2,7 +2,7 @@
 
 I'm Newb, from the United States. I'm a Spigot plugin developer, Minecraft client developer, and an AntiCheat developer.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gardening_Tool&show_icons=true&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GardeningTool&show_icons=true&include_all_commits=true)
 
 
 # Programming Languages
