@@ -25,11 +25,15 @@ I'm Newb, from the United States. I'm a Spigot plugin developer, Minecraft clien
 - MySQL
 - Redis
 - Maven
+- Spigot API
+- JDA
+- NMS & Minecraft packets
+- MCP
 
 --------------------------
 
 ### Contact Information
 
 Discord: Newb#9658
-
+Telegram: Gardening_Tool
 
