@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/GardeningTool?template=classic&isocalendar=1&stars=1&introduction=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=3&config.timezone=America%2FChicago)
+![Metrics](https://metrics.lecoq.io/gabrielvicenteYT?template=classic&isocalendar=1&stars=1&introduction=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=3&config.timezone=America%2FChicago)
 
 ### Known Languages
 -  Java
@@ -7,7 +7,7 @@
 - C++
 - Python
 --------------------------
-# Tools
+## Tools
 ### Familiar with / becoming familiar with
 - MySQL
 - Redis
@@ -19,5 +19,6 @@
 --------------------------
 ### Contact Information
 
- - Discord: Newb#9658
- - Telegram: Gardening_Tool
+ - Youtube: https://www.youtube.com/channel/UCgvype8S5GjO9NI9M6R9bjw
+ - CCBlueX Forums: https://forums.ccbluex.net/user/gabriel
+ - Guilded Server: guilded.gg/Coccocoas-Helper
